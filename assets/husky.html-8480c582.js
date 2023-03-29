@@ -1,0 +1,1 @@
+import{_ as s,p as t,q as a,R as e,t as c}from"./framework-5866ffd3.js";const r={},o=e("h3",{id:"husky",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#husky","aria-hidden":"true"},"#"),c(" husky")],-1),n=[o];function _(h,d){return t(),a("div",null,n)}const u=s(r,[["render",_],["__file","husky.html.vue"]]);export{u as default};
